@@ -1,6 +1,6 @@
 # Hi there 👋
-## I'm Julia. I'm a Frontend Developer.
-### 🌱 I’m currently start my new life in Canada and looking to collaborate on new projects.
+## I'm Julia. I'm a Web Designer and  Frontend Developer.
+### 🌱 I’m currently starting my new life in Canada and looking to collaborate on new projects.
 
 ![logo](https://i.pinimg.com/originals/0e/cb/3d/0ecb3d5ed5b291cf1a72295fef15a379.gif)
 <!--
